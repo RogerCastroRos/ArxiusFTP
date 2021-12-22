@@ -1,0 +1,10 @@
+C:\D.A.P Salesians Sarria\2n Curs\Projectes\Sprint Grupal\ArxiusFTP\bin\Debug\ArxiusFTP.exe.config
+C:\D.A.P Salesians Sarria\2n Curs\Projectes\Sprint Grupal\ArxiusFTP\bin\Debug\ArxiusFTP.exe
+C:\D.A.P Salesians Sarria\2n Curs\Projectes\Sprint Grupal\ArxiusFTP\bin\Debug\ArxiusFTP.pdb
+C:\D.A.P Salesians Sarria\2n Curs\Projectes\Sprint Grupal\ArxiusFTP\obj\Debug\ArxiusFTP.csproj.CoreCompileInputs.cache
+C:\D.A.P Salesians Sarria\2n Curs\Projectes\Sprint Grupal\ArxiusFTP\obj\Debug\ArxiusFTP.exe
+C:\D.A.P Salesians Sarria\2n Curs\Projectes\Sprint Grupal\ArxiusFTP\obj\Debug\ArxiusFTP.pdb
+C:\D.A.P Salesians Sarria\2n Curs\Projectes\Sprint Grupal\ArxiusFTP\bin\Debug\FluentFTP.dll
+C:\D.A.P Salesians Sarria\2n Curs\Projectes\Sprint Grupal\ArxiusFTP\bin\Debug\FluentFTP.xml
+C:\D.A.P Salesians Sarria\2n Curs\Projectes\Sprint Grupal\ArxiusFTP\obj\Debug\ArxiusFTP.csproj.CopyComplete
+C:\D.A.P Salesians Sarria\2n Curs\Projectes\Sprint Grupal\ArxiusFTP\obj\Debug\ArxiusFTP.csprojAssemblyReference.cache
